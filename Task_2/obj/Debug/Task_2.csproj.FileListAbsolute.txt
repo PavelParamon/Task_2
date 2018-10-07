@@ -1,0 +1,9 @@
+C:\Users\Pavel\source\repos\Task_2\Task_2\bin\Debug\Task_2.exe
+C:\Users\Pavel\source\repos\Task_2\Task_2\bin\Debug\Task_2.pdb
+C:\Users\Pavel\source\repos\Task_2\Task_2\obj\Debug\Task_2.csprojResolveAssemblyReference.cache
+C:\Users\Pavel\source\repos\Task_2\Task_2\obj\Debug\Task_2.MainForm.resources
+C:\Users\Pavel\source\repos\Task_2\Task_2\obj\Debug\Task_2.Properties.Resources.resources
+C:\Users\Pavel\source\repos\Task_2\Task_2\obj\Debug\Task_2.csproj.GenerateResource.cache
+C:\Users\Pavel\source\repos\Task_2\Task_2\obj\Debug\Task_2.csproj.CoreCompileInputs.cache
+C:\Users\Pavel\source\repos\Task_2\Task_2\obj\Debug\Task_2.exe
+C:\Users\Pavel\source\repos\Task_2\Task_2\obj\Debug\Task_2.pdb
